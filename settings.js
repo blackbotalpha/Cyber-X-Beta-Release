@@ -36,31 +36,77 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['94764002139'] //ur owner number
-global.ownername = "ﾒI AM M͜͡R KASUNﾒ" //ur owner name
+global.vcardowner = ['94770378874'] //ur owner number
+global.ownername = "➭DARK-SHADOW➭" //ur owner name
 global.ytname = "YT STRONG OFFICIAL😘 " //ur yt chanel name
-global.socialm = "http://wa.me/94764592540 ﾒI AM M͜͡R KASUNﾒ" //ur github or insta name
-global.location = "Sri Lanka, MATALE,ටවුන් එකේ තමා 😂 " //ur location
+global.socialm = "http://wa.me/94770378874 HI DARK-SHADOW " //ur github or insta name
+global.location = "Sri Lanka, ANURADHAPURA,PADAVIYA" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94764002139']
-global.ownertag = '94764592540' //ur tag number
-global.botnumber = '94764002139' //Add your Bot Number For Log
-global.botname = 'CYBER-X STRONG OFFICIAL ' //ur bot name
-global.ig = "https://youtube.com/@MRKASUN-qk9lu" //your theme url which will be displayed on whatsapp
+global.owner = ['94770378874']
+global.ownertag = '94770378874' //ur tag number
+global.botnumber = '94770378874' //Add your Bot Number For Log
+global.botname = '➭DARK-SHADOW➭ ' //ur bot name
+global.ig = "https://youtube.com" //your theme url which will be displayed on whatsapp
 global.myweb = "https://chat.whatsapp.com/FtTFVVG00HS0zodpH1294C" //ur website to be displayed
 global.sc = 'https://github.com/darkalphaxteam' //script link
 global.linkz = 'https://youtu.be/uzMbW5v9QLE'
-global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "📩" //ur theme emoji
-global.packname = "Cyber-X STRONG OFFICIAL " //ur sticker watermark packname
-global.author = "ﾒI AM M͜͡R KASUNﾒ" //ur sticker watermark author
-global.footer = "® ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ᴇᴅɪᴛɪᴏɴ"
+global.reactmoji = "💔" //ur menu react emoji
+global.themeemoji = "😇" //ur theme emoji
+global.packname = "➭DARK-SHADOW➭ " //ur sticker watermark packname
+global.author = "I,M DARK SHADOW BOT OWNER " //ur sticker watermark author
+global.footer = "® DARK-SHADOW"
 global.aliveimg ="https://textpro.me/images/user_image/2023/03/6424532c3cdeb.jpg-s1085-b1"
 global.allmenuimg ="https://textpro.me/images/user_image/2023/03/64267027bcdf3.jpg-s981-b1"
 global.welcomeimg= "https://textpro.me/images/user_image/2023/03/642670df28424.jpg-s1042-b1"
 global.gbyeimg = "https://textpro.me/images/user_image/2023/03/642671650f95a.jpg-s1046-b1"
-global.alivemsg = "ඔබ සතුව නැති දේ ලබා ගැනීමේ පහසුම ක්‍රමය  ඇගයීමයි.. හැකි සෑම විටම තව කෙනෙක්ව ඇගයීමට උත්සහ කරන්න. එය ඔබේ මානසික සංවර්ධිත බවේ සලකුණකි..\nසංස්කරණය කළ පරිවර්තනයකි...\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
+global.alivemsg = "❰𝙱𝙻𝙰𝙲𝙺-𝙺𝙸𝙽𝙶❱
+
+▎ Hi  ┉𝙳𝙰𝚁𝙺-𝚂𝙷𝙰𝙳𝙾𝚆 🍁(𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛) 👋 
+
+▎ ◀▣𝙱𝙻𝙰𝙲𝙺 𝚂𝚄𝙺𝙸-𝙼𝙳▣▶
+
+▎ ◀▣▶ 𝗦𝗽𝗲𝗲𝗱 : 0.00119 miliseconds
+
+▎ ◀▣▶ 𝗥𝘂𝗻𝘁𝗶𝗺𝗲 : 4 seconds
+
+▎ ◀▣▶ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 : ◀▣𝙱𝙻𝙰𝙲𝙺 𝚂𝚄𝙺𝙸-𝙼𝙳▣▶ 
+
+▎ ◀▣▶ 𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲 : ◐⦂𝙱𝙻𝙰𝙲𝙺-𝚂𝚄𝙺𝙸⦂◐
+
+▎ ◀▣▶ 𝗢𝘄𝗻𝗲𝗿 𝗡𝘂𝗺𝗯𝗲𝗿 : +94770378874
+
+▎ ◀▣▶ 𝗛𝗼𝘀𝘁 𝗡𝗮𝗺𝗲 : ◐⦂𝙱𝙻𝙰𝙲𝙺-𝚂𝚄𝙺𝙸⦂◐
+
+▎ ◀▣▶ 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : linux
+
+▎ ◀▣▶ 𝗧𝗼𝘁𝗮𝗹 𝗨𝘀𝗲𝗿 : 1
+
+   Ｍｅｎｕ Ｃｏｍｍａｎｄｓ🌀
+
+   ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 
+
+  
+
+   
+
+▎ ️◀▣𝙱𝙻𝙰𝙲𝙺 𝚂𝚄𝙺𝙸-𝙼𝙳▣▶  Created by ◐⦂𝙱𝙻𝙰𝙲𝙺-𝚂𝚄𝙺𝙸⦂◐  🪁
+
+▎          
+
+⭕►▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+
+   ▎ ◀▣𝙱𝙻𝙰𝙲𝙺 𝚂𝚄𝙺𝙸-𝙼𝙳▣▶
+
+   ▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+
+ ▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+
+⛬කෙල්ලෝ ඔක්කොම එකයි උන්ගේ නම් විතරයි වෙනස් 😇
+
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+
+◀▣𝙱𝙻𝙰𝙲𝙺 𝚂𝚄𝙺𝙸-𝙼𝙳▣▶"
 
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
