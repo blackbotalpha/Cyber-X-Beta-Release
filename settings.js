@@ -17,11 +17,11 @@ global.APIKeys = {
 
 //AUTO FUNCTIONS ( 📵 DONT EDIT 📵 ) ITS FOR NEXT UPDATE
 
-global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = false //auto reading in gc (true to on, false to off)
-global.autobio = false  // auto bio system checking on Developing Leval
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
+global.autoReadGc = true //auto reading in gc (true to on, false to off)
+global.autobio = true  // auto bio system checking on Developing Leval
+global.autoRecord = true //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //VIDEO MENU 
@@ -36,30 +36,30 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['94711421243'] //ur owner number
-global.ownername = "ᴋɪɴɢ ᴅᴀʀᴋ ᴀʟᴘʜᴀ" //ur owner name
-global.ytname = "YT: TGM Arcade" //ur yt chanel name
-global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
-global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
+global.vcardowner = ['94764002139'] //ur owner number
+global.ownername = "ﾒI AM M͜͡R KASUNﾒ" //ur owner name
+global.ytname = "YT STRONG OFFICIAL😘 " //ur yt chanel name
+global.socialm = "http://wa.me/94764592540 ﾒI AM M͜͡R KASUNﾒ" //ur github or insta name
+global.location = "Sri Lanka, MATALE,ටවුන් එකේ තමා 😂 " //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94711421243']
-global.ownertag = '94711421243' //ur tag number
-global.botnumber = '94764679736' //Add your Bot Number For Log
-global.botname = 'CYBER-X BETA EDITION' //ur bot name
-global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
-global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
+global.owner = ['94764002139']
+global.ownertag = '94764592540' //ur tag number
+global.botnumber = '94764002139' //Add your Bot Number For Log
+global.botname = 'CYBER-X STRONG OFFICIAL ' //ur bot name
+global.ig = "https://youtube.com/@MRKASUN-qk9lu" //your theme url which will be displayed on whatsapp
+global.myweb = "https://chat.whatsapp.com/FtTFVVG00HS0zodpH1294C" //ur website to be displayed
 global.sc = 'https://github.com/darkalphaxteam' //script link
 global.linkz = 'https://youtu.be/uzMbW5v9QLE'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
-global.packname = "Cyber-X Test Bot" //ur sticker watermark packname
-global.author = "DARK ALPHA" //ur sticker watermark author
+global.packname = "Cyber-X STRONG OFFICIAL " //ur sticker watermark packname
+global.author = "ﾒI AM M͜͡R KASUNﾒ" //ur sticker watermark author
 global.footer = "® ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ᴇᴅɪᴛɪᴏɴ"
-global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
-global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
-global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.gbyeimg = "https://telegra.ph/file/844812c77704231c08a90.jpg"
+global.aliveimg ="https://textpro.me/images/user_image/2023/03/6424532c3cdeb.jpg-s1085-b1"
+global.allmenuimg ="https://textpro.me/images/user_image/2023/03/64267027bcdf3.jpg-s981-b1"
+global.welcomeimg= "https://textpro.me/images/user_image/2023/03/642670df28424.jpg-s1042-b1"
+global.gbyeimg = "https://textpro.me/images/user_image/2023/03/642671650f95a.jpg-s1046-b1"
 global.alivemsg = "ඔබ සතුව නැති දේ ලබා ගැනීමේ පහසුම ක්‍රමය  ඇගයීමයි.. හැකි සෑම විටම තව කෙනෙක්ව ඇගයීමට උත්සහ කරන්න. එය ඔබේ මානසික සංවර්ධිත බවේ සලකුණකි..\nසංස්කරණය කළ පරිවර්තනයකි...\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
 
 //BOT MEDIAS
@@ -70,7 +70,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['94711421243'] //ADD YOU NUMBER
+global.premium = ['94764002139'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -85,9 +85,9 @@ global.nttoxic = []
 global.ntnsfw = []
 global.ntvirtex = []
 global.rkyt = []
-global.wlcm = []
+global.wlcm = [හායි ඔයාව ආදරේ න් පිළි ගන්නවා]
 global.gcrevoke = []
-global.autorep = []
+global.autorep = [true]
 global.ntilink = []
 
 //OTHERS
@@ -98,12 +98,12 @@ global.sp = '⭔'
 global.mess = {
     success: '✉️✏️ _Done_',
     admin: '✉️✏️ _This Feature Is Only For Admin!_',
-    botAdmin: '✉️✏️ _Bot Must Be Admin First!_',
+    botAdmin: '✉️✏️ _බොට් හට ඇඩ්මින් ලබා දෙන්න මුලින්ම!_',
     owner: '✉️✏️ _This Feature Is Only For Owner!_',
     group: '✉️✏️ _Feature Used Only For Groups!_',
     private: '✉️✏️ _Features Used Only For Private Chat!_',
     bot: '✉️✏️ _This Feature Is Only For Bot_',
-    wait: '✉️✏️ _Processing Please Wait..._',
+    wait: '✉️✏️ _Processing Please Wait මදක් රැදී සිටින්න..._',
     linkm: '📧✏️ _Where is the link?_',
     error: '✉️🤕 ```Error!!```',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
